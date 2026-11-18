@@ -8,7 +8,7 @@ database/*.sql.gz
 
 # Logs et fichiers de test
 *.log
-public/test.php
+test.php
 
 # Éditeur et système
 .vscode/
