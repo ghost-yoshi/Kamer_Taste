@@ -2,7 +2,7 @@
 // Adapte BASE_URL à ton environnement (sans slash final)
 // Serveur PHP intégré : http://localhost:8000
 // XAMPP/WAMP        : http://localhost:8080/restaurant-ecommerce/public
-   define('BASE_URL', 'http://localhost:8080/restaurant-ecommerce/public');
+   define('BASE_URL', 'http://localhost:8080');
 define('APP_NAME', 'Kamer Taste');
 
 // Affichage des erreurs (à désactiver en production)
